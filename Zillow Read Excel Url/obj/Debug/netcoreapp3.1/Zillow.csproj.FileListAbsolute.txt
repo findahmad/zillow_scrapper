@@ -1,0 +1,65 @@
+C:\Users\Administrator\source\repos\Zillow Read Excel Url\Zillow Read Excel Url\bin\Debug\netcoreapp3.1\Zillow.exe
+C:\Users\Administrator\source\repos\Zillow Read Excel Url\Zillow Read Excel Url\bin\Debug\netcoreapp3.1\Zillow.deps.json
+C:\Users\Administrator\source\repos\Zillow Read Excel Url\Zillow Read Excel Url\bin\Debug\netcoreapp3.1\Zillow.runtimeconfig.json
+C:\Users\Administrator\source\repos\Zillow Read Excel Url\Zillow Read Excel Url\bin\Debug\netcoreapp3.1\Zillow.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\Zillow Read Excel Url\Zillow Read Excel Url\bin\Debug\netcoreapp3.1\Zillow.dll
+C:\Users\Administrator\source\repos\Zillow Read Excel Url\Zillow Read Excel Url\bin\Debug\netcoreapp3.1\Zillow.pdb
+C:\Users\Administrator\source\repos\Zillow Read Excel Url\Zillow Read Excel Url\bin\Debug\netcoreapp3.1\IronSoftware.Drawing.Common.dll
+C:\Users\Administrator\source\repos\Zillow Read Excel Url\Zillow Read Excel Url\bin\Debug\netcoreapp3.1\IronXL.dll
+C:\Users\Administrator\source\repos\Zillow Read Excel Url\Zillow Read Excel Url\bin\Debug\netcoreapp3.1\Microsoft.Office.Interop.Excel.dll
+C:\Users\Administrator\source\repos\Zillow Read Excel Url\Zillow Read Excel Url\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Administrator\source\repos\Zillow Read Excel Url\Zillow Read Excel Url\bin\Debug\netcoreapp3.1\RestSharp.dll
+C:\Users\Administrator\source\repos\Zillow Read Excel Url\Zillow Read Excel Url\bin\Debug\netcoreapp3.1\SixLabors.Fonts.dll
+C:\Users\Administrator\source\repos\Zillow Read Excel Url\Zillow Read Excel Url\bin\Debug\netcoreapp3.1\SixLabors.ImageSharp.dll
+C:\Users\Administrator\source\repos\Zillow Read Excel Url\Zillow Read Excel Url\bin\Debug\netcoreapp3.1\SixLabors.ImageSharp.Drawing.dll
+C:\Users\Administrator\source\repos\Zillow Read Excel Url\Zillow Read Excel Url\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Administrator\source\repos\Zillow Read Excel Url\Zillow Read Excel Url\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Administrator\source\repos\Zillow Read Excel Url\Zillow Read Excel Url\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\Administrator\source\repos\Zillow Read Excel Url\Zillow Read Excel Url\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Administrator\source\repos\Zillow Read Excel Url\Zillow Read Excel Url\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Administrator\source\repos\Zillow Read Excel Url\Zillow Read Excel Url\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Administrator\source\repos\Zillow Read Excel Url\Zillow Read Excel Url\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Administrator\source\repos\Zillow Read Excel Url\Zillow Read Excel Url\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Administrator\source\repos\Zillow Read Excel Url\Zillow Read Excel Url\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+C:\Users\Administrator\source\repos\Zillow Read Excel Url\Zillow Read Excel Url\obj\Debug\netcoreapp3.1\Zillow.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Zillow Read Excel Url\Zillow Read Excel Url\obj\Debug\netcoreapp3.1\Zillow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Zillow Read Excel Url\Zillow Read Excel Url\obj\Debug\netcoreapp3.1\Zillow.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Zillow Read Excel Url\Zillow Read Excel Url\obj\Debug\netcoreapp3.1\Zillow.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Zillow Read Excel Url\Zillow Read Excel Url\obj\Debug\netcoreapp3.1\Zillow.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Zillow Read Excel Url\Zillow Read Excel Url\obj\Debug\netcoreapp3.1\Zillow.csproj.CopyComplete
+C:\Users\Administrator\source\repos\Zillow Read Excel Url\Zillow Read Excel Url\obj\Debug\netcoreapp3.1\Zillow.dll
+C:\Users\Administrator\source\repos\Zillow Read Excel Url\Zillow Read Excel Url\obj\Debug\netcoreapp3.1\Zillow.pdb
+C:\Users\Administrator\source\repos\Zillow Read Excel Url\Zillow Read Excel Url\obj\Debug\netcoreapp3.1\Zillow.genruntimeconfig.cache
+D:\Clients\Career Op\Zillow\Zillow Read Excel Url\bin\Debug\netcoreapp3.1\Zillow.exe
+D:\Clients\Career Op\Zillow\Zillow Read Excel Url\bin\Debug\netcoreapp3.1\Zillow.deps.json
+D:\Clients\Career Op\Zillow\Zillow Read Excel Url\bin\Debug\netcoreapp3.1\Zillow.runtimeconfig.json
+D:\Clients\Career Op\Zillow\Zillow Read Excel Url\bin\Debug\netcoreapp3.1\Zillow.runtimeconfig.dev.json
+D:\Clients\Career Op\Zillow\Zillow Read Excel Url\bin\Debug\netcoreapp3.1\Zillow.dll
+D:\Clients\Career Op\Zillow\Zillow Read Excel Url\bin\Debug\netcoreapp3.1\Zillow.pdb
+D:\Clients\Career Op\Zillow\Zillow Read Excel Url\bin\Debug\netcoreapp3.1\IronSoftware.Drawing.Common.dll
+D:\Clients\Career Op\Zillow\Zillow Read Excel Url\bin\Debug\netcoreapp3.1\IronXL.dll
+D:\Clients\Career Op\Zillow\Zillow Read Excel Url\bin\Debug\netcoreapp3.1\Microsoft.Office.Interop.Excel.dll
+D:\Clients\Career Op\Zillow\Zillow Read Excel Url\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Clients\Career Op\Zillow\Zillow Read Excel Url\bin\Debug\netcoreapp3.1\RestSharp.dll
+D:\Clients\Career Op\Zillow\Zillow Read Excel Url\bin\Debug\netcoreapp3.1\SixLabors.Fonts.dll
+D:\Clients\Career Op\Zillow\Zillow Read Excel Url\bin\Debug\netcoreapp3.1\SixLabors.ImageSharp.dll
+D:\Clients\Career Op\Zillow\Zillow Read Excel Url\bin\Debug\netcoreapp3.1\SixLabors.ImageSharp.Drawing.dll
+D:\Clients\Career Op\Zillow\Zillow Read Excel Url\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Clients\Career Op\Zillow\Zillow Read Excel Url\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\Clients\Career Op\Zillow\Zillow Read Excel Url\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+D:\Clients\Career Op\Zillow\Zillow Read Excel Url\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Clients\Career Op\Zillow\Zillow Read Excel Url\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Clients\Career Op\Zillow\Zillow Read Excel Url\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Clients\Career Op\Zillow\Zillow Read Excel Url\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Clients\Career Op\Zillow\Zillow Read Excel Url\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Clients\Career Op\Zillow\Zillow Read Excel Url\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+D:\Clients\Career Op\Zillow\Zillow Read Excel Url\obj\Debug\netcoreapp3.1\Zillow.csproj.AssemblyReference.cache
+D:\Clients\Career Op\Zillow\Zillow Read Excel Url\obj\Debug\netcoreapp3.1\Zillow.GeneratedMSBuildEditorConfig.editorconfig
+D:\Clients\Career Op\Zillow\Zillow Read Excel Url\obj\Debug\netcoreapp3.1\Zillow.AssemblyInfoInputs.cache
+D:\Clients\Career Op\Zillow\Zillow Read Excel Url\obj\Debug\netcoreapp3.1\Zillow.AssemblyInfo.cs
+D:\Clients\Career Op\Zillow\Zillow Read Excel Url\obj\Debug\netcoreapp3.1\Zillow.csproj.CoreCompileInputs.cache
+D:\Clients\Career Op\Zillow\Zillow Read Excel Url\obj\Debug\netcoreapp3.1\Zillow.csproj.CopyComplete
+D:\Clients\Career Op\Zillow\Zillow Read Excel Url\obj\Debug\netcoreapp3.1\Zillow.dll
+D:\Clients\Career Op\Zillow\Zillow Read Excel Url\obj\Debug\netcoreapp3.1\Zillow.pdb
+D:\Clients\Career Op\Zillow\Zillow Read Excel Url\obj\Debug\netcoreapp3.1\Zillow.genruntimeconfig.cache
+D:\Clients\Career Op\Zillow\Zillow Read Excel Url\bin\Debug\netcoreapp3.1\CsvHelper.dll
