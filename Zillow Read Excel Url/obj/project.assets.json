@@ -6143,11 +6143,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Clients\\Career Op\\Zillow\\Zillow Read Excel Url\\Zillow.csproj",
+      "projectUniqueName": "D:\\git\\zillow_scrapper\\Zillow Read Excel Url\\Zillow.csproj",
       "projectName": "Zillow",
-      "projectPath": "D:\\Clients\\Career Op\\Zillow\\Zillow Read Excel Url\\Zillow.csproj",
+      "projectPath": "D:\\git\\zillow_scrapper\\Zillow Read Excel Url\\Zillow.csproj",
       "packagesPath": "C:\\Users\\Ahmad Raza\\.nuget\\packages\\",
-      "outputPath": "D:\\Clients\\Career Op\\Zillow\\Zillow Read Excel Url\\obj\\",
+      "outputPath": "D:\\git\\zillow_scrapper\\Zillow Read Excel Url\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -22,7 +22,7 @@ namespace Zillow
                     var PropertyId = dr[1];
                     var client = new RestClient("https://zillow-data.p.rapidapi.com/property/detail?zpid=" + PropertyId + "");
                     var request = new RestRequest(Method.GET);
-                    request.AddHeader("X-RapidAPI-Key", "6616dadbe0mshc0711e8fb4834c6p1a853ajsnddc6238469a2");
+                    request.AddHeader("X-RapidAPI-Key", "enter rapid api key");
                     request.AddHeader("X-RapidAPI-Host", "zillow-data.p.rapidapi.com");
                     IRestResponse response = client.Execute(request);
                     dynamic content = JsonConvert.DeserializeObject(response.Content);
